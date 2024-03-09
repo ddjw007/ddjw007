@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 ##
 <div style="text-align:center;">  
-    <img style="display:inline-block; margin:0 20px;" height="180" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />  
-    <img style="display:inline-block; margin:0 20px;" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />  
+    <img style="display:inline-block; margin:0 20px;" height="224" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />  
+    <img style="display:inline-block; margin:0 20px;" height="224" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />  
 </div>
 
 
