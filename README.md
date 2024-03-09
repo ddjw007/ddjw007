@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ddjw007&theme=transparent&border_radius=8.7&card_width=400&sideLabels=EB5454" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=ddjw007&theme=transparent&border_radius=8.7&card_width=400&sideLabels=EB5454" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on:
   - Few shot for action recognition.
