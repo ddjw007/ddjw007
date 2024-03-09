@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 
 ##
-<img align="lefg" height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />
-<img align="right" height="196" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />
+<img align="right" height="128" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />
+<img align="right" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />
 
 
 
