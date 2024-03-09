@@ -16,16 +16,18 @@ Here are some ideas to get you started:
 -->
 
 ##
-
-<img align="right" height="128" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />
-<img align="right" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ddjw007&theme=transparent&card_width=488&sideLabels=EB5454" alt="GitHub Streak" /></a>
 - 🔭 I’m currently working on:
   - Few shot for action recognition.
   - Linux operation.
   - AIGC
 - 🚀 Ask me about anything [here](https://github.com/ddjw007/ddjw007/issues).
 - 🛰️ Reach me through GitHub or 1241813744@qq.com.
+
+##
+<img align="right" height="128" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />
+<img align="right" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ddjw007&theme=transparent&card_width=488&sideLabels=EB5454" alt="GitHub Streak" /></a>
+
 
 ##
 
