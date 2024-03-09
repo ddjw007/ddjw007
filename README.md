@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   - Few shot for action recognition.
   - Linux operation.
   - AIGC
-- 💬 Ask me about anything [here](https://github.com/wengzhe/wengzhe/issues).
-- 📫 Reach me through GitHub or i@zheweng.email.
+- 💬 Ask me about anything [here](https://github.com/ddjw007/ddjw007/issues).
+- 📫 Reach me through GitHub or 1241813744@qq.com.
 
 ##
 
