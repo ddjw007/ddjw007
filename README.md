@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="你好，欢迎浏览我的博客小站<p>&#x1F917;</p>" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
