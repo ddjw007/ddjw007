@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 
 
 ##
+<div style="text-align:center;">  
+    <img style="display:inline-block; margin:0 10px;" height="128" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />  
+    <img style="display:inline-block; margin:0 10px;" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />  
+</div>
 
-<img  align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true&layout=compact" />
-<img  align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&show_icons=true&layout=compact" />
 
 
 
