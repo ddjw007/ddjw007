@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##
 
 <img align="right" height="128" src="https://github-readme-stats.vercel.app/api?username=wengzhe&show_icons=true&hide_rank=true" />
-<img align="right" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wengzhe&layout=compact" />
+<img align="right" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />
 
 - 🔭 I’m currently working on:
   - Few shot for action recognition.
@@ -45,9 +45,6 @@ Here are some ideas to get you started:
 
 #### Competent
 
-
-
-
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>
 &emsp;
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>
@@ -57,7 +54,6 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>
-
 &emsp;
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
