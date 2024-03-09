@@ -26,27 +26,14 @@ Here are some ideas to get you started:
 - 👊 Your dream is not your destination,but a journey.So am i!!!
 - 🚀 Ask me about anything [here](https://github.com/ddjw007/ddjw007/issues).
 - 🛰️ Reach me through GitHub or 1241813744@qq.com.
-- 
 
 
 
 ##
 
-<div style="display: flex; justify-content: center; align-items: center;">  
+<img align="right" height="128" src="https://github-readme-stats.vercel.app/api?username=wengzhe&show_icons=true&hide_rank=true" />
+<img align="right" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wengzhe&layout=compact" />
 
-  <div>  
-
-    <img align="center" height="128" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />  
-
-  </div>  
-
-  <div style="margin-left: 20px;"> <!-- 这里设置左边距是为了在两个模块之间添加一些间隔 -->  
-
-    <img align="center" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />  
-
-  </div>  
-
-</div>
 
 
 
