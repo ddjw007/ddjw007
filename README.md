@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
 ##
 
-![Profile views counter](https://komarev.com/ghpvc/?username=wengzhe&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=ddjw007&&style=flat-square)  
