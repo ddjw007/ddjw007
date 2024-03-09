@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 ##
-<img align="right" height="128" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />
-<img align="right" height="128" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />
+<img height="256" src="https://github-readme-stats.vercel.app/api?username=ddjw007&show_icons=true&hide_rank=true" />
+<img height="256" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddjw007&layout=compact" />
 
 
 
