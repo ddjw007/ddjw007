@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+我是这个代码小站的管理员，目前是一名燕山大学通信工程研究生二年级在读，
 
 **About me**
 
