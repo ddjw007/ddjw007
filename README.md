@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ddjw007&row=1&column=7&margin-w=15)
 
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=ddjw007&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/zhihu/?username=ddjw007&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
+</p>
+
 #### Proficient
 
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
