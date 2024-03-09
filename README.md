@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ##
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ddjw007&theme=buddhism&row=1&column=7&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=ddjw007&row=1&column=7&margin-w=15)
 
 #### Proficient
 
