@@ -1,6 +1,6 @@
 ## Hello, World
 
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm ddjw007, a Embedded Software Engineer from China, also dabbling a bit in Python, linux，and Sketch.  I am passionate about open source and enjoy experimenting with new ideas. 
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm ddjw007, an Embedded Software Engineer from China, also dabbling a bit in Python, linux，and Sketch.  I am passionate about open source and enjoy experimenting with new ideas. 
 
 <table width="960px">
 <tr>
